@@ -1,3 +1,3 @@
-## Welcome to the Thought Flakes:)
+
 
 This site is under construction, hope you will get benefitted by this soon... 
