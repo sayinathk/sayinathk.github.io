@@ -2,7 +2,7 @@
 layout: post
 title: Art of Making habits
 published: true
-permalink: /art/
+permalink: /art-of-making-habits/
 ---
 
 
