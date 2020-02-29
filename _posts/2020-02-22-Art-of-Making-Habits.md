@@ -3,7 +3,6 @@ layout: post
 title: Art of Making habits
 published: true
 permalink: /art-of-making-habits/
-url: //art-of-making-habits/
 description: description11111
 ---
 
