@@ -8,6 +8,6 @@ published: true
   {% for post in site.posts %}
   <h1>{{post.title}}</h1>
   <p>
-    {{post.content | truncate = 30}}
+    {{post.description | truncate = 30}}
   </p>
   {% endfor %}
