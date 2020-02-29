@@ -34,6 +34,6 @@ img{
 
 .section{
 	display: grid;
-	grid-template-columns: auto auto;
+	grid-template-columns: lfr lfr;
 }
 
