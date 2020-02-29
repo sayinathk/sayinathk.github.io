@@ -29,7 +29,7 @@ a{
 }
 
 img{
-	height: auto;
+	max-height: auto;
 		
 }
 
