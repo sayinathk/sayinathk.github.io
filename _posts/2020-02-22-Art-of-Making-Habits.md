@@ -1,8 +1,12 @@
 ---
 layout: post
-title: Blogging 
+title: Blogging
+published: true
 ---
 
+---
+
+---
 
 ## Art of Making Habits
 Lets c abt making habits
