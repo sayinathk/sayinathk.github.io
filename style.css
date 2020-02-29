@@ -31,3 +31,9 @@ a{
 img{
 	max-width: 100%
 }
+
+.section{
+	display: grid;
+	grid-template-columns: auto auto;
+}
+
