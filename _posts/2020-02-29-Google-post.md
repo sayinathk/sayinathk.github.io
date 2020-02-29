@@ -1,6 +1,6 @@
 ---
-layout:post
-title:gooogle
+layout: post
+title: gooogle
 permalink:/google/
 description: description22222222
 ---
