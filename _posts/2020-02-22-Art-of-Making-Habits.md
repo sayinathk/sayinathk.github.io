@@ -13,7 +13,7 @@ image: /images/habit.jpg
 ![tests]({{site.url}}/images/habit.jpg)
 ![](images/habit.jpg)
 ![](posts/habit(1).jpeg)
-![]({{ site.url }}/images/habit.jpg)
+![]({{site.url}}/images/habit.jpg)
 
 > We all know what needs to be done to make our self better but only a few of us do it and become successful.
 
