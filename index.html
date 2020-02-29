@@ -2,12 +2,12 @@
 layout: post
 published: true
 ---
-<h1 class="maintitle"> Thought Flakes 3</h1>
+<h1 class="maintitle"> Thought Flakes </h1>
 
   
   {% for post in site.posts %}
   <h1>{{post.title}}</h1>
   <p>
-    {{post.description | truncate = 30}}
+    {{post.description}}
   </p>
   {% endfor %}
