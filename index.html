@@ -1,6 +1,3 @@
----
-
----
 
 
 <!DOCTYPE html>
@@ -13,12 +10,12 @@
   index content</br>
 This site is under construction, hope you will get benefitted by this soon...
   
-  
-  <h1> {{site.posts[0].title}}</h1>
+  {% for post in sit.posts%}
+  <a href="post.url"><h1> {{post.title}}</h1></a>
   <p>
-    {{site.post[0].content}}
+    {{post.content}}
   </p>
-  
+  {% endfor %}
   
 </body>
 </html>
