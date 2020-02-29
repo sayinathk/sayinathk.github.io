@@ -3,9 +3,14 @@ layout: post
 title: Art of Making habits
 published: true
 permalink: /art-of-making-habits/
-description: Just like million others, I have also read tons of self-help articles noting down good ideas and quotes and in turn have got an impulsive boost in confidence , just like everyone would get after reading a good motivating article.
+description: >-
+  Just like million others, I have also read tons of self-help articles noting
+  down good ideas and quotes and in turn have got an impulsive boost in
+  confidence , just like everyone would get after reading a good motivating
+  article.
 image: /images/habit(1).jpeg
 ---
+![ksadn]({{site.baseurl}}/_posts/habit(1).jpeg)
 ![tests](images/habit(1).jpeg)
 > We all know what needs to be done to make our self better but only a few of us do it and become successful.
 
