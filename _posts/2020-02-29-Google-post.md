@@ -1,7 +1,8 @@
 ---
 layout:post
 title:gooogle
-metalink:/google/
+permalink:/google/
+description: description22222222
 ---
 
 I honestly do. Perfecting the fundamentals always appears to be a daunting task. Why waste time on the basics when I learn things as fast as I do?
