@@ -2,11 +2,10 @@
 layout: post
 title: Blogging
 published: true
+permalink: /art/
 ---
 
----
-title: Art of Making Habits
----
+
 
 ## Art of Making Habits
 Lets c abt making habits
