@@ -7,7 +7,7 @@ description: Just like million others, I have also read tons of self-help articl
   down good ideas and quotes and in turn have got an impulsive boost in
   confidence , just like everyone would get after reading a good motivating
   article.
-image: /images/habit(1).jpeg
+image: /images/habit.jpg
 ---
 ![ksadn]({{site.baseurl}}/_posts/habit(1).jpeg)
 ![tests](images/habit(1).jpeg)
