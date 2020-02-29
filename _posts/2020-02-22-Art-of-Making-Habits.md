@@ -11,7 +11,7 @@ image: /images/habit.jpg
 ---
 ![ksadn]({{site.baseurl}}/_posts/habit(1).jpeg)
 ![tests](images/habit.jpg)
-
+![](images/habit.jpg)
 
 > We all know what needs to be done to make our self better but only a few of us do it and become successful.
 
