@@ -1,7 +1,7 @@
 ---
 layout: post
 title: gooogle
-permalink:/google/
+permalink: /google/
 description: description22222222
 ---
 
