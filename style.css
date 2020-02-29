@@ -2,7 +2,7 @@
     max-width: 75%;
     margin: 0 auto;
     font-size: 125%;
-    font:125% Segoe UI;
+    font:125% Helvetica;
     }
 
 
@@ -28,5 +28,5 @@ a{
 }
 
 img{
-	max-width: 70%
+	max-width: 100%
 }
