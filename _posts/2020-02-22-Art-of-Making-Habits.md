@@ -9,10 +9,7 @@ description: Just like million others, I have also read tons of self-help articl
   article.
 image: /images/habit.jpg
 ---
-![ksadn]({{site.baseurl}}/_posts/habit(1).jpeg)
-![tests]({{site.url}}/images/habit.jpg)
-![asd](images/habit.jpg)
-![zc](posts/habit(1).jpeg)
+
 ![qwe]({{site.url}}/images/habit.jpg)
 
 > We all know what needs to be done to make our self better but only a few of us do it and become successful.
