@@ -10,3 +10,11 @@ h1.maintitle{
 	text-align: centre;
 	font-size: 200%;
 }
+
+.box{
+	margin-bottom:20px;
+	padding:20px;
+	border: 2px solid #b3b3b3;
+	border-radius: 15px;
+}
+
