@@ -6,7 +6,7 @@
     }
 
 
-h1.maintitle{
+.maintitle{
 	text-align: centre;
 	font-size: 200%;
 }
@@ -21,4 +21,8 @@ h1.maintitle{
 a{
 	text-decoration: none;
 	color: #404040;
+}
+
+.posttitle{
+	color: #333
 }
