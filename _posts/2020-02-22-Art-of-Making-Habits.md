@@ -10,7 +10,7 @@ description: Just like million others, I have also read tons of self-help articl
 image: /images/habit.jpg
 ---
 ![ksadn]({{site.baseurl}}/_posts/habit(1).jpeg)
-![tests]({{site.baseurl}}/images/habit.jpg)
+![tests]({{site.url}}/images/habit.jpg)
 ![](images/habit.jpg)
 ![](posts/habit(1).jpeg)
 
