@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging
+title: Art of Making habits
 published: true
 permalink: /art/
 ---
