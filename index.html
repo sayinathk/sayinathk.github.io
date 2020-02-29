@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 ---
 
 
@@ -7,10 +8,8 @@ layout: post
 This site is under construction, hope you will get benefitted by this soon...
   
   {% for post in site.posts %}
-  <h1><a href="post.url"> {{post.title}}</a></h1>
+  <h1>{{post.title}}</h1>
   <p>
     {{post.content}}
   </p>
   {% endfor %}
-  
-
