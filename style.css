@@ -6,7 +6,8 @@
     }
 
 
-.chk{
+.chk{ 
+	max-width: 100%;
 	font-family: 'Nanum Pen Script';
 	text-align: left;
 	font-size: 500%;
