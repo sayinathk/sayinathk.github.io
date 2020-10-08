@@ -1,20 +1,54 @@
 ---
-layout: post
+layout: home
 published: true
 ---
 
+<!--
+<div class="section">
+    {% for post in site.posts %}
 
-  <div class="section">
-  {% for post in site.posts %}
-  
-        <div class="box"> 
-              <img src="{{post.image}}" alt="test image">
-              <a href="{{post.url}}"><h2 class="posttitle">{{post.title}}</h2>
-              <p>
+    <div class="box">
+        <img src="{{post.image}}" alt="test image">
+        <a href="{{post.url}}">
+            <h2 class="posttitle">{{post.title}}</h2>
+            <p>
                 {{post.description}}
-              </p>
-              </a>
-        </div>
- 
-  {% endfor %}
+            </p>
+        </a>
+    </div>
+
+    {% endfor %}
+</div>
+-->
+<div class="section">
+    {% for post in site.tags.present %}
+
+    <div class="box">
+        <a class="home_url" href="{{post.url}}">
+            <img src="{{post.image}}" alt="test image">
+
+            <h2 class="posttitle">{{post.title}}</h2>
+            <p>
+                {{post.description}}
+            </p>
+        </a>
+    </div>
+
+    {% endfor %}
+
+
+    {% for post in site.tags.notpresent %}
+
+    <div class="box">
+        <a class="home_url" href="{{post.trueurl}}">
+            <img src="{{post.image}}" alt="test image">
+            <h2 class="posttitle">{{post.title}}</h2>
+            <p>
+                {{post.description}} <br><br>
+                [This will redirect you to Medium.com]
+            </p>
+        </a>
+    </div>
+
+    {% endfor %}
 </div>
