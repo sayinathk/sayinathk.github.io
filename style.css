@@ -9,7 +9,8 @@
 
 
 	.post_body {
-	    max-width: 120%;
+	    max-width: 100%;
+	    margin: 0 auto;
 	    font-size: 103%;
 	    font: "Georgia";
 	    background-color: #f8f9f9;
@@ -100,6 +101,14 @@
 	        padding: 0;
 	    }
 
+	    body {
+	        max-width: 85%;
+	        margin: 0 auto;
+	        font-size: 150%;
+	        font: "Georgia";
+	        background-color: #f8f9f9;
+	    }
+
 	    .post_body {
 	        max-width: 120%;
 	        font-size: 80%;
@@ -126,7 +135,7 @@
 	        display: block;
 	        margin-left: auto;
 	        margin-right: auto;
-	        width: 50%;
+	        width: 60%;
 
 	    }
 
