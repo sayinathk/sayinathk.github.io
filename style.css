@@ -88,10 +88,26 @@
 
 
 	@media only screen and (max-width: 800px) {
+	    .chk {
+	        max-width: 100%;
+	        font-family: 'Nanum Pen Script';
+	        text-align: centre;
+	        font-size: 250%;
+	        line-height: 1.2;
+	        margin: 0;
+	        padding: 0;
+	    }
+
+	    .post_body {
+	        max-width: 120%;
+	        font-size: 103%;
+	        font: "Georgia";
+	        background-color: #f8f9f9;
+	        line-height: 1.4;
+	    }
 
 	    .disclaimer {
-	        font-size: 560%;
-	        background-color: red;
+	        font-size: 60%;
 
 	    }
 
@@ -102,7 +118,8 @@
 	    .section {
 	        display: grid;
 	        grid-template-columns: 1fr;
-	        grid-gap: 20px
+	        grid-gap: 20px font-size: 80%;
+
 	    }
 
 	}
