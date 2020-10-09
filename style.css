@@ -43,6 +43,8 @@
 	blockquote {
 	    font-size: 135%;
 	    color: #757575;
+	    line-height: 1.3;
+
 	}
 
 	.posttitle {
@@ -100,7 +102,7 @@
 
 	    .post_body {
 	        max-width: 120%;
-	        font-size: 103%;
+	        font-size: 80%;
 	        font: "Georgia";
 	        background-color: #f8f9f9;
 	        line-height: 1.4;
@@ -111,9 +113,6 @@
 
 	    }
 
-	    .post_body {
-	        background-color: purple;
-	    }
 
 	    .section {
 	        display: grid;
