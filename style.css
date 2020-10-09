@@ -6,6 +6,8 @@
 	    background-color: #f8f9f9;
 	}
 
+
+
 	.post_body {
 	    max-width: 120%;
 	    font-size: 103%;
@@ -14,17 +16,13 @@
 	    line-height: 1.4;
 	}
 
-	@media screen and (max-width:480px) {
+
+
+	@media only screen and (max-width:600px) {
 	    .post_body {
-	        max-width: 120%;
-	        font-size: 103%;
-	        font: "Georgia";
-	        background-color: red;
-	        line-height: 1.4;
+	        background-color: lightblue;
 	    }
-
 	}
-
 
 	.box {
 	    margin-bottom: 20px;
