@@ -12,6 +12,16 @@
 	    font: "Georgia";
 	    background-color: #f8f9f9;
 	    line-height: 1.4;
+	}
+
+	@media screen and (max-width:480px) {
+	    .post_body {
+	        max-width: 120%;
+	        font-size: 103%;
+	        font: "Georgia";
+	        background-color: red;
+	        line-height: 1.4;
+	    }
 
 	}
 
