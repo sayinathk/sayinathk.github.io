@@ -22,6 +22,11 @@
 	    .post_body {
 	        background-color: lightblue;
 	    }
+
+	    .disclaimer {
+	        font-size: 260%
+	    }
+
 	}
 
 	.box {
