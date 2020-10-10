@@ -2,7 +2,7 @@
 layout: post
 title: Summary of The Compound Effect by Darren Hardy
 permalink: /summary-of-the-compound-effect-by-darren-hardy/
-description: Learn how to boost your life by making very small changes from one of the highly rated self help book of this decade.
+description: Learn from one of the highly rated self help book of this decade, on how to boost your life by making very simple changes.
 tags: present
 image: images/thecompoundeffect.jpg
 ---
