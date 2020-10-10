@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mobile Specifications Simplified
-permalink: /:title/
 description: Buying a new phone? Here’s how to make sense of listed specifications such as Display, RAM, Camera, Processor, and Battery.
 image: images/mobile_spec.jpg
 tags: notpresent
