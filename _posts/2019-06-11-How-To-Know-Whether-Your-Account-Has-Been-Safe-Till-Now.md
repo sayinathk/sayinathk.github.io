@@ -2,9 +2,9 @@
 layout: post
 title: How To Know Whether Your Account Has Been Safe Till Now
 description: You are trusting your passwords with various Internet companies. Is your data safe? How to know whether your password has been stolen?
-tags: notpresent
+tags: [notpresent, fornowsuggested]
 trueurl: https://medium.com/hackernoon/how-to-know-whether-your-account-has-been-safe-till-now-a864b8098ef0
-image: images/hack.jpg
+image: /images/hack.jpg
 ---
 ![qwe]({{site.url}}/images/hack.jpg)
 fngnnds
