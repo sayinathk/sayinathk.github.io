@@ -23,12 +23,7 @@
 
 
 
-	.box {
-	    margin-bottom: 20px;
-	    padding: 20px;
-	    border: 2px solid #b3b3b3;
-	    border-radius: 15px;
-	}
+
 
 	.home_url {
 	    text-decoration: none;
@@ -75,6 +70,28 @@
 	    grid-template-columns: 1fr 1fr;
 	    grid-gap: 20px
 	}
+
+	.box {
+	    margin-bottom: 20px;
+	    padding: 20px;
+	    border: 2px solid #b3b3b3;
+	    border-radius: 15px;
+	}
+
+	/* for post suggestion*/
+	.post_sug {
+	    display: grid;
+	    grid-template-columns: 1fr 1fr 1fr;
+	    grid-gap: 20px
+	}
+
+	.noborder_box {
+	    margin-bottom: 20px;
+	    padding: 20px;
+	}
+
+
+
 
 	.centre {
 	    display: block;
@@ -139,5 +156,12 @@
 	        width: 60%;
 
 	    }
+
+	    .post_sug {
+	        display: grid;
+	        grid-template-columns: 1fr;
+	        grid-gap: 20px
+	    }
+
 
 	}
