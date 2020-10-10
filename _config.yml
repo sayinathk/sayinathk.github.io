@@ -9,3 +9,8 @@ defaults:
       path: "" 
     values:
         tags: "present"
+
+gems: 
+      - jekyll-sitemap
+        
+        
