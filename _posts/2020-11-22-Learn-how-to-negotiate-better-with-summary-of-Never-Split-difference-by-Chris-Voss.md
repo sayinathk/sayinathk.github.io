@@ -8,6 +8,9 @@ image: images/Never_split_the_difference.jpg
 ---
 <img src="{{site.url}}/images/Never_split_the_difference.jpg" class="centre">
 
+CONTENT:
+* 
+{:toc}
 
 ### Introduction:
 
@@ -17,7 +20,7 @@ Chris has spent 24 years working in the FBI Crisis Negotiation Unit. And he was 
 
  
 
-### Listen
+### Listen:
 
 - An important part of negotiation involves gathering information as much as possible from the counterpart and using the information to close the deal the way you want. Active listening helps in this regard.
 
@@ -27,13 +30,13 @@ Chris has spent 24 years working in the FBI Crisis Negotiation Unit. And he was 
 
  
 
-### Build a subconscious bond with Mirror
+### Build a subconscious bond with Mirror:
 
-Mirroring, also called isopraxism, is essentially imitation. Mirroring is repeating last (or critical) three words of what someone said to you.
+- Mirroring, also called isopraxism, is essentially imitation. Mirroring is repeating last (or critical) three words of what someone said to you.
 
-Your tone should be like "Please, help me understand" and then follow it with silence. **Your tone and Silence is the key**. With Mirror you are forcing your counterpart to rephrase, during which they spill out more information than the last time, which maybe enough for you to get the deal you wanted. 
+- Your tone should be like "Please, help me understand" and then follow it with silence. **Your tone and Silence is the key**. With Mirror you are forcing your counterpart to rephrase, during which they spill out more information than the last time, which maybe enough for you to get the deal you wanted. 
 
-The author says the only disadvantage of this technique is that people may feel awkward to use this initially, but with practice, the author claims Mirroring is very similar to Jedi mind trick"
+- The author says the only disadvantage of this technique is that people may feel awkward to use this initially, but with practice, the author claims Mirroring is very similar to Jedi mind trick"
 
 Let's look at mirroring in action,
 
@@ -58,7 +61,7 @@ A week of work avoided!”
 
  
 
-### <u>Show empathy by Labeling</u>
+### Show empathy by Labeling:
 
 - Labeling is acknowledging your counterpart's situation. Making them feel understood, soothes them sub consciously,  making them feel conformable with you and improves the odds of a better deal for you.
 
@@ -86,7 +89,7 @@ Here is an example from the authors experience:
 
  
 
-### Say "No" with open ended questions
+### Say "No" with open ended questions:
 
 > “He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.” - Robert Estabrook
 
@@ -105,7 +108,7 @@ Once a patient admitted to a hospital was dissatisfied with something and tried 
 To give you another example, a small public relation firm for a big corporation was not getting paid by their client. The client always managed to evade paying on the promise of repeat business, stating it will result eventually in large revenue. But the firm hadn't been paid a single penny. So the author advised the firm's head to summarize their situation and ask "How am I supposed to do that?". Even though she was skeptical, She practised and did what the author asked her to do. To her surprise, her client said “You’re right, you can’t and I apologize.” Her client explained that they were going through some internal problems, but agreed to pay within 2 days.
  
 
-#### Elegant ways to say No
+#### Elegant ways to say No:
 
 Generally, you can say "No" four times before you have to say the actual word. Learn how to pull this off from an excerpt taken off the book,
 
@@ -123,7 +126,7 @@ Generally, you can say "No" four times before you have to say the actual word. L
 
  
 
-### Getting a "No" (at the beginning) is good
+### Getting a "No" (at the beginning) is good:
 
 When you get a call from a salesperson, you get your guard up and you become dismissive even before hearing their proposition. A trained salesperson will mostly follow a script to get a yes from you. They follow a series of scripted questions which will start with an obvious question aiming to get a Yes from you, then moving on gradually to the actual sales question. The problem with this script is that it is trying  too hard to get a yes.
 
@@ -158,7 +161,7 @@ Let's see an example from the book,
 
  
 
-### Anchor
+### Anchor the Mindset:
 
 - Before giving bad news or revealing your exact offer, you have to first anchor their expectation down. You make them expect the worst news and hit them with bad news. This will look ~~positive~~ to them, as the information they received wasn't as bad as they thought it would be.
 
@@ -176,7 +179,7 @@ In this example,
 Certainty Effect - People are drawn towards sure things over probabilities, even though the probability is a better choice
 Loss Aversion - People take greater risk to avoid a loss than to achieve gain
 
-### Salary (or Price) negotiation
+### Salary (or Price) negotiation:
 
 - It is generally better to **let the other side start**. If you hadn't done your homework, you might ask for a salary well below the market standard. For example, once a Novelist was approached to write a story for a Hollywood movie, he accepted to write and asked for a salary of $150 per week (this is in 1944). While the producer had already planned to pay him $750 per week. If he had let the producer go first, then the novelist could have got 5 times what he had wanted. Luckily the produce took pity on him and called an agent to represent the Novelist during negotiations. It may not be the case for you, remember life is unfair (to those who are unprepared)
 
@@ -217,6 +220,7 @@ And one more thing, reading this doesn’t make u magically better in negotiatio
 
 - Also not all the points can be used in a single conversation. So don't force yourself to use every technique you remember, thinking somehow it will give you a hidden advantage. it will only break the flow of the conversation. So use only when necessary.
 
-
-
+<br>
+Learnt Something new? 
+<br>Show some ❤ by <u>sharing this article</u> :)
 

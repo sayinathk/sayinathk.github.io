@@ -173,3 +173,7 @@
 	    font-size: medium;
 	    font-family: "Courier New", Courier, monospace;
 	}
+
+	h3 {
+	    text-decoration: underline;
+	}
