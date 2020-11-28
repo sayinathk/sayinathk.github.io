@@ -91,7 +91,7 @@ Here is an example from the authors experience:
 
 ### Say "No" with Open Ended Questions:
 
-> “He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.” - Robert Estabrook
+> “He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation” - Robert Estabrook
 
  
 - If you had thought, how am I supposed to disagree without being disagreeable. Then it means you had known about it all along, you just didnt know that you already know. Confusing isn't it. The answer lies in the question itself. Instead of saying "No" explicitly, you ask an open ended question like "How am I supposed to do that". With just one question, your problem has also become your counterpart's problem. The open question makes the counterpart to think what they just offered for you. All this without saying an explicit no. Amazing isn't it. Whereas when asked a Yes/No question, the counterpart blurts out a subconscious answer without needing to think much.
@@ -100,12 +100,12 @@ Here is an example from the authors experience:
 
  
 
-- Here is an example to illustrate this:
+<small class="grey"> Here is an example to illustrate this:
 Once a patient admitted to a hospital was dissatisfied with something and tried to storm out of his room. And the hospital staff couldn't calm him down. When the doctor came, instead of saying a "No", the doctor asked, "What do you hope to achieve by going". By asking an open ended question, the doctor implicitly forced the patient to calm down and explain his situation, without sounding hostile
 
  
 
-- To give you another example, a small public relation firm for a big corporation was not getting paid by their client. The client always managed to evade paying on the promise of repeat business, stating it will result eventually in large revenue. But the firm hadn't been paid a single penny. So the author advised the firm's head to summarize their situation and ask "How am I supposed to do that?". Even though she was skeptical, She practised and did what the author asked her to do. To her surprise, her client said “You’re right, you can’t and I apologize.” Her client explained that they were going through some internal problems, but agreed to pay within 2 days.
+<small class="grey"> To give you another example, a small public relation firm for a big corporation was not getting paid by their client. The client always managed to evade paying on the promise of repeat business, stating it will result eventually in large revenue. But the firm hadn't been paid a single penny. So the author advised the firm's head to summarize their situation and ask "How am I supposed to do that?". Even though she was skeptical, She practised and did what the author asked her to do. To her surprise, her client said “You’re right, you can’t and I apologize.” Her client explained that they were going through some internal problems, but agreed to pay within 2 days.
  
 
 #### Elegant Ways To Say No:
