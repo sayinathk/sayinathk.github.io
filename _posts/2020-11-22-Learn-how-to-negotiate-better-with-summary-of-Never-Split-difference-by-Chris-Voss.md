@@ -100,12 +100,12 @@ Here is an example from the authors experience:
 
  
 
-Here is an example to illustrate this:
+- Here is an example to illustrate this:
 Once a patient admitted to a hospital was dissatisfied with something and tried to storm out of his room. And the hospital staff couldn't calm him down. When the doctor came, instead of saying a "No", the doctor asked, "What do you hope to achieve by going". By asking an open ended question, the doctor implicitly forced the patient to calm down and explain his situation, without sounding hostile
 
  
 
-To give you another example, a small public relation firm for a big corporation was not getting paid by their client. The client always managed to evade paying on the promise of repeat business, stating it will result eventually in large revenue. But the firm hadn't been paid a single penny. So the author advised the firm's head to summarize their situation and ask "How am I supposed to do that?". Even though she was skeptical, She practised and did what the author asked her to do. To her surprise, her client said “You’re right, you can’t and I apologize.” Her client explained that they were going through some internal problems, but agreed to pay within 2 days.
+- To give you another example, a small public relation firm for a big corporation was not getting paid by their client. The client always managed to evade paying on the promise of repeat business, stating it will result eventually in large revenue. But the firm hadn't been paid a single penny. So the author advised the firm's head to summarize their situation and ask "How am I supposed to do that?". Even though she was skeptical, She practised and did what the author asked her to do. To her surprise, her client said “You’re right, you can’t and I apologize.” Her client explained that they were going through some internal problems, but agreed to pay within 2 days.
  
 
 #### Elegant ways to say No:
@@ -128,18 +128,16 @@ Generally, you can say "No" four times before you have to say the actual word. L
 
 ### Getting a "No" (at the beginning) is good:
 
-When you get a call from a salesperson, you get your guard up and you become dismissive even before hearing their proposition. A trained salesperson will mostly follow a script to get a yes from you. They follow a series of scripted questions which will start with an obvious question aiming to get a Yes from you, then moving on gradually to the actual sales question. The problem with this script is that it is trying  too hard to get a yes.
+- When you get a call from a salesperson, you get your guard up and you become dismissive even before hearing their proposition. A trained salesperson will mostly follow a script to get a yes from you. They follow a series of scripted questions which will start with an obvious question aiming to get a Yes from you, then moving on gradually to the actual sales question. The problem with this script is that it is trying  too hard to get a yes.
 
-If a water purifier seller had called you and asked "Do you want to drink healthy water", All you would want to do is shout a big No, end the call and carry on with your work. Well, the moment you sensed that was a sales call, he had a "No" waiting in your mouth. When you know the salesperson is trying to force an yes out of you, you go to defensive mode. you don't let most of the words into your brain. If the offer terms never reaches the other person's CPU, then how will you ever get a deal made. 
+- If a water purifier seller had called you and asked "Do you want to drink healthy water", All you would want to do is shout a big No, end the call and carry on with your work. Well, the moment you sensed that was a sales call, he had a "No" waiting in your mouth. When you know the salesperson is trying to force an yes out of you, you go to defensive mode. you don't let most of the words into your brain. If the offer terms never reaches the other person's CPU, then how will you ever get a deal made. 
 
-That's why the author says its best to get a "No" at the beginning rather than trying to force a "Yes". Instead of asking "Do you have time to talk?" you can ask "Is it a good time to talk?". You get a "No" and their complete focus
+- That's why the author says its best to get a "No" at the beginning rather than trying to force a "Yes". Instead of asking "Do you have time to talk?" you can ask "Is it a good time to talk?". You get a "No" and their complete focus
 
-Making the person say "No" lowers down their guard, and they would start listen to your offer. Saying "No" subconsciously gives them the sense of control. It makes them available to listen. This not only works for the sales pitch, it can also be used in any form of negotiations
-
- 
-
+- Making the person say "No" lowers down their guard, and they would start listen to your offer. Saying "No" subconsciously gives them the sense of control. It makes them available to listen. This not only works for the sales pitch, it can also be used in any form of negotiations
 
  
+
 
 Let's see an example from the book,
 
@@ -163,9 +161,9 @@ Let's see an example from the book,
 
 ### Anchor the Mindset:
 
-- Before giving bad news or revealing your exact offer, you have to first anchor their expectation down. You make them expect the worst news and hit them with bad news. This will look ~~positive~~ to them, as the information they received wasn't as bad as they thought it would be.
+- Before giving bad news or revealing your exact offer, you have to first anchor their expectation down. You make them expect the worst news and hit them with bad news. This will look positive to them, as the information they received wasn't as bad as they thought it would be.
 
-Let's see how the author delivered bad news to a set of contractors, who on average were paid $2000 per day, can be paid only $500 a day.
+- Let's see how the author delivered bad news to a set of contractors, who on average were paid $2000 per day, can be paid only $500 a day.
 
 <small class="grey"> I knew exactly what they would do if I just told them straight out: they’d laugh me out of town. So I got each of them on the phone and hit them hard with an accusation audit. “I got a lousy proposition for you,” I said, and paused until each asked me to go on. “By the time we get off the phone, you’re going to think I’m a lousy businessman. You’re going to think I can’t budget or plan. You’re going to think Chris Voss is a big talker. His first big project ever out of the FBI, he screws it up completely. He doesn’t know how to run an operation. And he might even have lied to me.” And then, once I’d anchored their emotions in a minefield of low expectations, I played on their loss aversion. “Still, I wanted to bring this opportunity to you before I took it to someone else,” I said. Suddenly, their call wasn’t about being cut from $2,000 to $500 but how not to lose $500 to some other guy. Every single one of them took the deal. No counteroffers, no complaints. Now, if I hadn’t anchored their emotions low, their perception of $500 would have been totally different. If I’d just called and said, “I can give you $500 per day. What do you think?” they’d have taken it as an insult and slammed down the phone.
 
@@ -173,11 +171,11 @@ Let's see how the author delivered bad news to a set of contractors, who on aver
 
 In this example, 
 
- Did you notice how the author starts by saying bad things about himself? Why did he say such things? Because it is important to focus, not only on what would help you complete a deal, but also to focus on what might hinder the deal and take care of it. If the author hadn't said such things, the contractors would have said it which would build the tension further, but the author cleverly took the sting and started with how they would possibly reject. Starting with what the counterpart could use to disagree with you, reduces its effect and makes it less of a barrier in deal negotiation. It also does the job of anchoring here.
-
- Also, the author exploits the fear of missing out by saying “Still, I wanted to bring this opportunity to you *before I took it to someone else*,” By referring that the opportunity can go to others, the Author lures them to go on with the deal by triggering their fear of missing out. Is there any other human tendency which might come in handy in future? Yes, there are!
-Certainty Effect - People are drawn towards sure things over probabilities, even though the probability is a better choice
-Loss Aversion - People take greater risk to avoid a loss than to achieve gain
+ 1. Did you notice how the author starts by saying bad things about himself? Why did he say such things? Because it is important to focus, not only on what would help you complete a deal, but also to focus on what might hinder the deal and take care of it. If the author hadn't said such things, the contractors would have said it which would build the tension further, but the author cleverly took the sting and started with how they would possibly reject. Starting with what the counterpart could use to disagree with you, reduces its effect and makes it less of a barrier in deal negotiation. It also does the job of anchoring here.
+ 
+ 2. Also, the author exploits the fear of missing out by saying “Still, I wanted to bring this opportunity to you *before I took it to someone else*,” By referring that the opportunity can go to others, the Author lures them to go on with the deal by triggering their fear of missing out. Is there any other human tendency which might come in handy in future? Yes, there are!
+    - Certainty Effect - People are drawn towards sure things over probabilities, even though the probability is a better choice
+    - Loss Aversion - People take greater risk to avoid a loss than to achieve gain
 
 ### Salary (or Price) negotiation:
 
@@ -206,7 +204,7 @@ I know this has been a lengthy (and hopefully informative) read so far, Let's se
 
  
 
-And one more thing, reading this doesn’t make u magically better in negotiation, practising this will!
+
 
  
 
@@ -219,6 +217,8 @@ And one more thing, reading this doesn’t make u magically better in negotiatio
 - There is lots of information to take in here, instead of trying out all techniques at once, practice and trial with one technique at a time.
 
 - Also not all the points can be used in a single conversation. So don't force yourself to use every technique you remember, thinking somehow it will give you a hidden advantage. it will only break the flow of the conversation. So use only when necessary.
+
+And one more thing, reading this doesn’t make u magically better in negotiation, practising this will!
 
 <br>
 Learnt Something new? 
