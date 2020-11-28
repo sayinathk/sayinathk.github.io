@@ -2,7 +2,7 @@
 layout: post
 title: Learn how to negotiate better with summary of Never Split the difference by Chris Voss
 permalink: /Learn-how-to-negotiate-better-with-summary-of-Never-Split-the-difference-by-Chris-Voss/
-description: We negotiate everytime we buy something. Have you ever thought how to improve your chances of getting a better deal?  Spend your next 20 minutes on learning how to negotiate from the former FBI's chief international hostage.
+description: Everytime we buy something, we try to get a better deal by negotiating. Have you ever thought how to improve your chances of getting a better deal?  Spend your next 20 minutes on learning how to negotiate from the former FBI's chief international hostage.
 tags: present
 image: images/Never_split_the_difference.jpg
 ---
