@@ -1,7 +1,7 @@
 	body {
 	    max-width: 75%;
 	    margin: 0 auto;
-	    font-size: 150%;
+	    font-size: 135%;
 	    font: "Georgia";
 	    background-color: #f8f9f9;
 	}
@@ -107,6 +107,7 @@
 	}
 
 
+
 	@media only screen and (max-width: 800px) {
 	    .chk {
 	        max-width: 100%;
@@ -164,4 +165,11 @@
 	    }
 
 
+	}
+
+	.grey {
+	    /*    color: #79a6d2;*/
+	    line-height: 1.4;
+	    font-size: medium;
+	    font-family: "Courier New", Courier, monospace;
 	}
