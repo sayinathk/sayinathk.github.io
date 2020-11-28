@@ -37,28 +37,28 @@ The author says the only disadvantage of this technique is that people may feel 
 
 Let's look at mirroring in action,
 
-<p class="grey">Popping his head into her office, the boss said, “Let’s make two copies of all the paperwork.” 
-<br>	“I’m sorry, two copies?” she mirrored in response, remembering not only the DJ voice, but to deliver the mirror in an inquisitive tone.
-<br>	“Yes,” her boss responded, “one for us and one for the customer.”
+<small class="grey">Popping his head into her office, the boss said, “Let’s make two copies of all the paperwork.” 
+<small class="grey">	“I’m sorry, two copies?” she mirrored in response, remembering not only the DJ voice, but to deliver the mirror in an inquisitive tone.
+<small class="grey">	“Yes,” her boss responded, “one for us and one for the customer.”
 
-“I’m sorry, so you are saying that the client is asking for a copy and we need a copy for internal use?”
+<small class="grey">“I’m sorry, so you are saying that the client is asking for a copy and we need a copy for internal use?”
 
 
 
-“Actually, I’ll check with the client—they haven’t asked for anything. But I definitely want a copy. That’s just how I do business.”
+<small class="grey">“Actually, I’ll check with the client—they haven’t asked for anything. But I definitely want a copy. That’s just how I do business.”
 
-“Absolutely,” she responded. “Thanks for checking with the customer. Where would you like to store the in-house copy? There’s no more space in the file room here.”
+<small class="grey">“Absolutely,” she responded. “Thanks for checking with the customer. Where would you like to store the in-house copy? There’s no more space in the file room here.”
 
-“It’s fine. You can store it anywhere,” he said, slightly perturbed now. “Anywhere?” she mirrored again, with calm concern. When another person’s tone of voice or body language is inconsistent with his words, a good mirror can be particularly useful.
+<small class="grey">“It’s fine. You can store it anywhere,” he said, slightly perturbed now. “Anywhere?” she mirrored again, with calm concern. When another person’s tone of voice or body language is inconsistent with his words, a good mirror can be particularly useful.
 
-In this case, it caused her boss to take a nice, long pause—something he did not often do. My student sat silent. “As a matter of fact, you can put them in my office,” he said, with more composure than he’d had the whole conversation. “I’ll get the new assistant to print it for me after the project is done. For now, just create two digital backups.” 
+<small class="grey">In this case, it caused her boss to take a nice, long pause—something he did not often do. My student sat silent. “As a matter of fact, you can put them in my office,” he said, with more composure than he’d had the whole conversation. “I’ll get the new assistant to print it for me after the project is done. For now, just create two digital backups.” 
 
-A day later her boss emailed and wrote simply, “The two digital backups will be fine.” 
+<small class="grey">A day later her boss emailed and wrote simply, “The two digital backups will be fine.” 
 A week of work avoided!”
 
- </p>
+ 
 
-### Show empathy by Labeling
+### <u>Show empathy by Labeling</u>
 
 - Labeling is acknowledging your counterpart's situation. Making them feel understood, soothes them sub consciously,  making them feel conformable with you and improves the odds of a better deal for you.
 
@@ -88,7 +88,7 @@ Here is an example from the authors experience:
 
 ### Say "No" with open ended questions
 
-<small class="grey"> “He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.” - Robert Estabrook
+> “He who has learned to disagree without being disagreeable has discovered the most valuable secret of negotiation.” - Robert Estabrook
 
  
 - If you had thought, how am I supposed to disagree without being disagreeable. Then it means you had known about it all along, you just didnt know that you already know. Confusing isn't it. The answer lies in the question itself. Instead of saying "No" explicitly, you ask an open ended question like "How am I supposed to do that". With just one question, your problem has also become your counterpart's problem. The open question makes the counterpart to think what they just offered for you. All this without saying an explicit no. Amazing isn't it. Whereas when asked a Yes/No question, the counterpart blurts out a subconscious answer without needing to think much.
