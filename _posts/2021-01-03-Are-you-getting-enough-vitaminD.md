@@ -28,14 +28,38 @@ A 2014 [Study](https://www.mdpi.com/2072-6643/6/2/729/htm) says that "Vitamin D 
 ## How much is required
 Since I couldn't find a recommendation by Indian government, I am listing down the details from [recommendation](https://ods.od.nih.gov/factsheets/VitaminD-Consumer/) of USA's National Institute of health,
 Average daily recommended amounts are listed below in micrograms (mcg) and International Units (IU):
-| Life Stage                       | Recommended Amount |
-|----------------------------------|--------------------|
-| Birth to 12 months               | 10 mcg (400 IU)    |
-| Children 1–13 years              | 15 mcg (600 IU)    |
-| Teens 14–18 years                | 15 mcg (600 IU)    |
-| Adults 19–70 years               | 15 mcg (600 IU)    |
-| Adults 71 years and older        | 20 mcg (800 IU)    |
-| Pregnant and breastfeeding women | 15 mcg (600 IU)    |
+
+
+<table>
+    <tr>
+        <td>Life Stage</td>
+        <td>Recommended Amount</td>
+    </tr>
+    <tr>
+        <td>Birth to 12 months</td>
+        <td>10 mcg (400 IU)</td>
+    </tr>
+    <tr>
+        <td>Children 1–13 years</td>
+        <td>15 mcg (600 IU)</td>
+    </tr>
+    <tr>
+        <td>Teens 14–18 years</td>
+        <td>15 mcg (600 IU)</td>
+    </tr>
+    <tr>
+        <td>Adults 19–70 years</td>
+        <td>15 mcg (600 IU)</td>
+    </tr>
+    <tr>
+        <td>Adults 71 years and older</td>
+        <td>20 mcg (800 IU)</td>
+    </tr>
+    <tr>
+        <td>Pregnant and breastfeeding women</td>
+        <td>15 mcg (600 IU)</td>
+    </tr>
+</table>
 
 ## Vitamin D Food Sources:
 Very few foods naturally have vitamin D. Sources include:
@@ -79,11 +103,6 @@ In absence of all the above vitamin D sources, one can opt for Vitamin D supplem
 <small class="grey">  Note: I have no medical background. Although I have done my best to provide you correct details as much as possible, **Please do your own research and get proper medical advice before taking any decision regarding your health**. This article is written only to create awareness regarding Vitamin D deficiency. 
 
 -----
-
-
-Hope you got some idea on Vitamin D deficiency and how we can fight against it. Share your thoughts in the comments, did you know about the Vitamin D deficiency?
-
-
 
 
 
