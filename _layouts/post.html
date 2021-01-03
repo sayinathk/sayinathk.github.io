@@ -40,6 +40,39 @@
 </body>
 
 
+<!-- // for dashed line 
+<br><br>
+<hr style="border: 1px dashed #000; width: 50%; margin: auto; margin-top: 5%; margin-bottom: 5%;" />
+<br><br>
+-->
 
+<!-- {% if page.comments == "true" %} -->
+
+<!-- {% endif %} -->
+
+<!-- // for dashed line 
+<h3>More from Sai's blog</h3>
+<div class="post_sug">
+    {% for post in site.tags.fornowsuggested %}
+
+    <div class="noborder_box">
+        <a class="home_url" href="{{post.trueurl}}">
+            <img src="{{post.image}}" alt="test image">
+
+            <h2 class="posttitle">{{post.title}}</h2>
+
+            <p class="disclaimer">
+                [This will redirect you to Medium.com]
+
+            </p>
+        </a>
+    </div>
+
+    {% endfor %}
+
+
+</div>
+
+-->
 
 </html>
