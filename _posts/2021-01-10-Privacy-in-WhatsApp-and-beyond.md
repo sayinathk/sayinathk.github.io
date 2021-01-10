@@ -20,16 +20,16 @@ WhatsApp was founded in 2009 by Brian Acton and Jan Koum. In 2014, Facebook had 
 ### Privacy Policy update
 
 - Some of the metadata (means - data that provides information about other data) which is going to be shared with Facebook are battery level, signal strength, app version, browser information, mobile network, connection information (including phone number, mobile operator or ISP), language and time zone, IP address, device operations information, and identifiers (including identifiers unique to Facebook Company Products associated with the same device or account). 
-- In short, this update means that WhatsApp will share almost all possible metadata with Facebook which will use to create a profile on you and show ad.
+- In short, this update means that WhatsApp will share almost all possible metadata with Facebook which will use them to create a profile on you and show ad.
 - I am seeing many local YouTubers mindlessly claiming, your messages are going to be read by Facebook to show you ads. Don't worry your message content won't be exploited here, because your messages are end to end encrypted (which means only you and the recipient, not even WhatsApp, has the password to decrypt the message you send), so Facebook or Whatsapp, at least for now, can't read your messages.
-- This latest change to the WhatsApp privacy policy has stirred up the whole world. Many thinking of switching to other alternatives. With Musk tweeting on the support of signal, the app is seeing a surge in installation count. Along with signal, Telegram is also being suggested as an alternative. Let's look at both of them
+- This latest change to the WhatsApp privacy policy has stirred up the whole world. Many are thinking of switching to other alternatives. With Musk tweeting on the support of signal, the app is seeing a surge in installation count. Along with signal, Telegram is also being suggested as an alternative. Let's look at both of them
 
 ### Alternatives Being Suggested
 
 #### Signal
 
-- [The signal](https://signal.org/en/) app, an open-source nonprofit messaging app, is the best option for privacy among messaging app. There is no better alternative for messaging in terms of privacy and security.
-- Fun fact - End to end encryption implemented in WhatsApp is the signal's encryption protocol.
+- The [Signal](https://signal.org/en/) app, an open-source nonprofit messaging app, is the best option for privacy among other messaging apps. There is no better alternative out there in terms of privacy and security.
+- Fun fact - End to end encryption implemented in WhatsApp is Signal's encryption protocol.
 - Only practical hindrance with the signal app is there is no cloud-based backing up of your messages, so when you get a new device, you have to back up your message manually and move.
 - There is no status feature in the signal, this may put off some people, but I personally hate status feature in any app, especially in a chatting app🤷🏻‍♂️, such a distracting thing. So I find the absence of status to be positive, but I am sure this is a negative for most of the others.
 
@@ -56,9 +56,9 @@ My opinion, based only on security and privacy features, will be
 #### Switching to Telegram - Not Recommended.
 
 - Do only if you are only going to use secret chat, which many are not going to do. Because only this type of chat is supported with e2e encryption
-- Do note that this doesn't mean telegram has a security flaw or if you use telegram, 3rd party is going to read your message, it's just in comparison for WhatsApp's default e2e encryption, telegrams regular chat's security is a tad bit less.
+- Do note that this doesn't mean telegram has a security flaw or if you use telegram, 3rd party is going to read your message, it's just, in comparison to WhatsApp's default e2e encryption, telegrams regular chat's security is a tad bit less.
 - But the amount of data collected by telegram seems to be less than WhatsApp (this is based on "App Privacy" details listed on Apple's app store)
-- So it comes down to your priority over security vs privacy. The choice is yours.
+- So it boils down to your priority over security vs privacy. The choice is yours.
 
 ### Let Me Introduce You To The Actual Problem
 
@@ -67,13 +67,16 @@ My opinion, based only on security and privacy features, will be
 
 ![apple_labels.png]({{site.url}}/images/apple_labels.png)
 
-Let's see how much data Google has collected on you. Google knows:
+#### Google
+Let's see how much data, Google has collected on you. Google knows:
 - Where you have been: click [here](https://www.google.com/maps/timeline?pb) to see your timeline
 - Everything you have searched (and deleted): click [here](https://myactivity.google.com/myactivity) to know how much of your web activities have been tracked by Google.
 - All the apps you use: click [here](https://security.google.com/settings/security/permissions)
 - All of your YouTube history: click [here](https://www.youtube.com/feed/history/search_history)
 - Google has created an advertisement profile for you based on the information it has collected, click [here](https://www.google.com/settings/ads/) to see your ad profile.
 - If you are getting to know about these google links for the first time, then please stop, nothing else matters in the world, open these links and get awestruck on how much data Google has on you. Want to know more about the tracking by Google, you can read further in my article [How to See Exactly Who Google Thinks You Are — And Then Turn off Their Tracking](https://medium.com/hackernoon/how-to-see-exactly-who-google-thinks-you-are-and-then-turn-off-their-tracking-94e83183fe36)
+
+#### Trackers Around Web
 - The websites you browse also have trackers. You are so special to the big tech companies that they want to get to know you better, even when you don't directly use their product. So they track you throughout the net. For eg, Facebook tracks you throughout the internet building a profile for you, even though you don't have a Facebook account.
 
 ![verge_trackers.png]({{site.url}}/images/verge_trackers.png)
