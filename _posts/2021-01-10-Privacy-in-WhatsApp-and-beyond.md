@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy in WhatsApp and beyond...
+title: Privacy In WhatsApp And Beyond...
 permalink: /Privacy-in-WhatsApp-and-beyond/
 description: Switching to signal is best, staying with Whatsapp is okay, switching to telegram blindly maynote be wise. But wait, there are more variables involved. Here's a quick read how to really take back your privacy
 comments: true
