@@ -108,6 +108,6 @@ Now that you have seen about tracking throughout the web, Lets first try to
 
 [Privacytools.io](http://privacytools.io/) is a quality guide website which I have found useful in my never-ending quest of online private life. It may help you too.
 
-We are living in a wonderful time where everything is within our reach thanks to the internet. But sadly it comes with the cost of Big Brother watching you, sometimes even without your knowledge. Beware, anything you do on the internet is not 100% secure or private
+We are living in a wonderful time where everything is within our reach thanks to the internet. But sadly it comes with the cost of Big Brother watching you, sometimes even without your knowledge. Beware! anything you do on the internet is not 100% secure or private.
 
-<br> Learnt Something new? <br>Show some ❤ by sharing this article to your friends. Help them safeguard their privacy <br> 
+<br> Learnt Something new? <br>Show some ❤ by sharing this article to your friends. <br>Help them safeguard their privacy <br> 
