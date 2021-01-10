@@ -74,7 +74,7 @@ Let's see how much data, Google has collected on you. Google knows:
 - All the apps you use: click [here](https://security.google.com/settings/security/permissions)
 - All of your YouTube history: click [here](https://www.youtube.com/feed/history/search_history)
 - Google has created an advertisement profile for you based on the information it has collected, click [here](https://www.google.com/settings/ads/) to see your ad profile.
-- If you are getting to know about these google links for the first time, then please stop, nothing else matters in the world, open these links and get awestruck on how much data Google has on you. Want to know more about the tracking by Google, you can read further in my article [How to See Exactly Who Google Thinks You Are — And Then Turn off Their Tracking](https://medium.com/hackernoon/how-to-see-exactly-who-google-thinks-you-are-and-then-turn-off-their-tracking-94e83183fe36)
+- If you are getting to know about these google links for the first time, then please stop, nothing else matters in the world, open these links and get awestruck on how much data Google has on you. Want to know more about the tracking by Google?, you can read further in my article [How to See Exactly Who Google Thinks You Are — And Then Turn off Their Tracking](https://medium.com/hackernoon/how-to-see-exactly-who-google-thinks-you-are-and-then-turn-off-their-tracking-94e83183fe36)
 
 #### Trackers Around Web
 - The websites you browse also have trackers. You are so special to the big tech companies that they want to get to know you better, even when you don't directly use their product. So they track you throughout the net. For eg, Facebook tracks you throughout the internet building a profile for you, even though you don't have a Facebook account.
@@ -90,7 +90,7 @@ Now that you have seen about tracking throughout the web, Lets first try to
 
 #### Block trackers throughout the web
 
-- Install block origin which blocks ads, tracking scripts. It also comes with the added benefit of blocking ads on YouTube!!! (but this may reduce your favourite YouTuber's income)
+- Install uBlock origin which blocks ads, tracking scripts. It also comes with the added benefit of blocking ads on YouTube!!! (but this may reduce your favourite YouTuber's income)
 - It is available for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) (thereby Edge, Brave, other chromium-based browsers can use the same extension)and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/). In the case of Firefox, you can install the extension in your android phone also. To know how to use the extension, see this amazing [explanation in YouTube](https://youtu.be/2lisQQmWQkY) (note: the video may be overwhelming with tons of information - start by just installing the extension, gradually you can learn about advanced features)
 
 #### Reduce trackings by Google.
