@@ -15,7 +15,7 @@ CONTENT:
   
 ### Intro
 
-WhatsApp was founded in 2009 by Brian Acton and Jan Koum. In 2014, Facebook had acquired WhatsApp for 19 Billion USD. After shelling out billions for WhatsApp, Zuckerberg would obviously be trying to convert WhatsApp into his surveillance fortress, to create a better profile on you. And there have been baby steps taken towards this. But now he has taken a big step of publicly disclosing Whatsapp will share data with Facebook. But I suspect the sharing has been going on for a while, but now Zuckerberg is being forced to disclose it after Apple started forcing Ios app makers to disclose any data collection.
+WhatsApp was founded in 2009 by Brian Acton and Jan Koum. In 2014, Facebook had acquired WhatsApp for 19 Billion USD. After shelling out billions for WhatsApp, Zuckerberg would obviously be trying to convert WhatsApp into his surveillance fortress, to create a better profile on you. And there have been baby steps taken towards this. But now he has taken a big step of publicly disclosing Whatsapp will share data with Facebook. But I suspect the sharing has been going on for a while, but now Zuckerberg is being forced to disclose it after Apple started forcing iOS app makers to disclose any data collection.
 
 ### Privacy Policy update
 
