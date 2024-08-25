@@ -62,12 +62,12 @@ With everything being digital, be sure to have unique passwords for each of your
 The stock market is where people buy and sell businesses, similar to how tomatoes are sold in a vegetable market. A seller quotes a price, and when a buyer agrees, they exchange cash, and the tomato is sold. Stocks are traded similarly via the stock exchange with help of brokerages, with prices fluctuating every microsecond.
 
 Businesses are divided into smaller units called shares, which are traded because not everyone can afford to buy an entire business.
-Share prices are influenced by fear and greed, making them unpredictable in the short term. However, over the long term (5-10 years), stock prices tend to follow the business’s profits. One buys a share so that they can get the profit attributable to their share of the business
+Share prices are influenced by fear and greed, making them unpredictable in the short term. However, over the long term (5-10 years), stock prices tend to follow the business’s profits. One buys a share so that they can get the profit attributable to their share of the business.
 
 Let me give an example using Microsoft(MSFT).   
 There are 7.43 billion shares of MSFT, currently trading at $416.79.  
 MSFT’s total net profit is $88.13 billion, so profit per share is $11.86.  
-As a shareholder, you can expect this $11.86 to be given back to you.( although in reality profits would be tried to be reinvested in business so that the shareholder would get bigger profit per share).   
+As a shareholder, you can expect this $11.86 to be given back to you.( although in reality profits would be tried to be reinvested in business so that the shareholder would get bigger profit per share next year).   
 
 Earnings yield is (earnings per share/ share price) * 100%  . Earnings yield is analogous to interest rate on a savings account, showing how much profit you earn for each dollar invested in a company’s stock.   
 The earnings yield of MSFT is $11.86 / $416.79 = 2.84%. So 2.84% of money you invested can be returned to you as part of profit attributable to you. However, with the US government / bank accounts offering a ~5.3% risk-free interest rate, why buy a share, it doesnt make sense right? Let me explain.  
@@ -79,7 +79,7 @@ This process of estimating future profit and discounting it to today’s value i
 
 In summary:
 You own a share, so you can get part of company’s profit. Even if todays earnings yield is not good, as company grows, you expect higher earning yield for you in future.
-So important thing to note is, its not enough for a company to be profitable, but it should keep growing its profit, i.e profit should become bigger and bigger 
+So important thing to note is, its not enough for a company to be profitable, but it should keep growing its profit, i.e profit should become bigger and bigger. 
 
 # Why Index funds are recommended and buying your own stock is hard
 For you to make profits, a company should be increasing its profit for the foreseeable future. This means management must be shrewd, the company shouldnot be disrupted by newer technologies, the field should be growing or the company’s market share within field should be growing etc etc.
@@ -104,30 +104,30 @@ Nifty 50: Represents the top 50 companies listed on the National Stock Exchange 
 Each quarter, based on changes in market capitalization, companies are [added or removed from the index](https://www.investopedia.com/index-rebalancing-7972596), and weightings within the index are adjusted.
 
 ![S&P500_is_not_actually_top_500.png]({{site.url}}/images/S&P500_is_not_actually_top_500.png)
- Be sure to read about rules for inclusion and exclusion. For instance when I said S&P 500 tracks largest 500 US companies, it was not factually true but more or less true.  once included in the S&P 500, it’s harder to be removed, only if they meet rules of exclusion, stocks can be removed from S&P 500. So even if a new company grows to become a top 500 business, one company which is already in S&P 500 need to exit to allow space for this new company. And this is fine because, this rule keeps [turnover ratio](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) low, hence keeping tax low
+ Be sure to read about rules for inclusion and exclusion. For instance when I said S&P 500 tracks largest 500 US companies, it was not factually true but more or less true.  once included in the S&P 500, it’s harder to be removed, only if they meet rules of exclusion, stocks can be removed from S&P 500. So even if a new company grows to become a top 500 business, one company which is already in S&P 500 need to exit to allow space for this new company. And this is fine because, this rule keeps [turnover ratio](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) low, hence keeping tax low. (PS: The image above is a few months old. The largest company off the index is no longer KKR, as KKR was recently added to the S&P 500.)
 
-However Some index rules may seem illogical.. For example, the Dow Jones index includes 30 stocks weighted by stock price, which is meaningless because comparing share prices without considering share count is absurd. Companies can manipulate weightings through [reverse splits](https://www.investopedia.com/terms/r/reversesplit.asp). Here’s a [blog](https://erikrood.com/Posts/DJIA.html) for more explanation.
+However some index rules may seem illogical.. For example, the Dow Jones index includes 30 stocks weighted by stock price, which is meaningless because comparing share prices without considering share count is absurd. Companies can manipulate weightings through [reverse splits](https://www.investopedia.com/terms/r/reversesplit.asp). Here’s a [blog](https://erikrood.com/Posts/DJIA.html) for more explanation.
 
-Similarly, Once you understand the Nasdaq-100 inclusion policy, you’ll see it’s not exactly a tech ETF as commonly believed. The Nasdaq-100 tracks the largest 100 stocks on the Nasdaq exchange. This results in excluding quality tech businesses such as Mastercard, Visa, because they are not listed in Nadaq exchange. Additionally, it excludes financial and REIT stocks. Because the Nasdaq-100 excludes many stocks, it is generally not recommended over the S&P 500 or total market index funds.
-
-So always know the rules for inclusion of stock, exclusion of stock and weightage rule of an index
+Similarly, Once you understand the Nasdaq-100 inclusion policy, you’ll see it’s not exactly a tech ETF as commonly believed. The Nasdaq-100 tracks the largest 100 stocks on the Nasdaq exchange. This results in excluding quality tech businesses such as Mastercard, Visa, because they are not listed in Nasdaq exchange. Additionally, it excludes financial and REIT stocks. Because the Nasdaq-100 excludes many stocks, it is generally not recommended over the S&P 500 or total market index funds.
 
 The whole point of the S&P 500 is that since you won’t know which sector will flourish, you include stocks from all sectors and use market cap-based weighting. 
 
 ![S&P_stocks_over_20years.png]({{site.url}}/images/S&P_stocks_over_20years.png)
-Over time, inclusion and exclusion automatically push out degrading companies and add new growing companies to the index. In the image above, If you look at top 10 stocks of 2010 and 2023, it would be clear. Look how Exonn mobil had the largest weightage during 2010 but its nowhere in top 10 of 2023.  Nasdaq-100 will be less efficient in doing this than S&P 500.
+Over time, inclusion and exclusion automatically push out degrading companies and add new growing companies to the index. In the image above, If you look at top 10 weighted stocks of S&P 500 at  2010 and 2023, it would be clear. Look how Exonn mobil had the largest weightage during 2010 but its nowhere in top 10 of 2023.  Nasdaq-100 will be less efficient in doing this than S&P 500.
+
+So always know the rules for inclusion of stock, exclusion of stock and weightage rule of an index
 
 There are all sorts of index funds, like thematic ETFs (e.g., ETFs for tech stocks, ETFs for semiconductor stocks) and 2x or 3x leveraged ETFs. Avoid them. The former doesn’t provide enough diversification, and the latter uses leverage, so if the index falls 33% in a day, a 3x leveraged ETF goes to zero, and you lose all your hard-earned money.
 
-Go for large indexes with diversified businesses. If you are in the US, S&P 500 or total market index funds are recommended. If you are in India, Nifty 50 index funds are recommended.
+*Go for large indexes with diversified businesses. If you are in the US, S&P 500 or total market index funds are recommended. If you are in India, Nifty 50 index funds are recommended.*
 
 There would be different index funds tracking the same S&P 500 index. With all else equal, go for the lowest expense ratio. For example, SPY and VOO both track the S&P 500, but SPY has a 0.06% expense ratio, while VOO has a 0.03% expense ratio. So, going with VOO makes sense.
 
-The expense ratio of an index fund is the annual fee that investors pay to cover the fund’s operating expenses. For instance, if an index fund has an expense ratio of 0.05%, you pay $5 annually for every $10,000 invested (doesnt matter if you had profit or not that year)
+The expense ratio of an index fund is the annual fee that investors pay to cover the fund’s operating expenses. For instance, if an index fund has an expense ratio of 0.05%, you pay $5 annually for every $10,000 invested (doesn't matter if you had profit or not)
 
-Buying index funds is called passive investing, because index fund passively tries to replicate the index. Active funds (where a person picks stocks for the fund rather than following fixed rules like an index) are statistically not recommended. 
+Buying index funds is called passive investing, because index fund passively tries to replicate the index. Active funds (where a person picks stocks for the fund rather than following fixed rules like an index) are statistically not recommended (at least in US, not sure about statistics of other nations). 
 ![active_fund_sucks.jpg ]({{site.url}}/images/active_fund_sucks.jpg )
-Due to high fees and less tax efficiency, most active funds lose to passive  index fund returns over the long term. As you can see in the image taken from [source](https://www.reddit.com/r/FluentInFinance/comments/19379w0/94_of_active_fund_managers_do_not_beat_the_market/).  86% of active underperformed their benchmark indexes.  How would know which active fund can beat index fund over long term? Sticking with index fund is safer!
+Due to high fees and less tax efficiency, most active funds lose to passive  index fund returns over the long term. As you can see in the image taken from [source](https://www.reddit.com/r/FluentInFinance/comments/19379w0/94_of_active_fund_managers_do_not_beat_the_market/).  86% of active underperformed their benchmark indexes.  How would you know which active fund can beat index fund over long term? Sticking with index fund is safer!
 
 If your investing strategy is anything other than index funds,  in my opinion, you need to have well informed reasoning. The reason cannot be just wanting higher returns, as higher returns are associated with higher risk (of losing money). 
 
@@ -154,15 +154,15 @@ Read more to form an opinion whether international index fund and bond fund make
 # Picking businesses for those who are willing to read (10000 hours?)
 
 
-“It is not uncommon for three-quarters of the index’s return to be linked to only 50 to 75 stocks.” - [Investopedia](https://www.investopedia.com/ask/answers/08/find-stocks-in-sp500.asp#:~:text=S%26P%20500%20Calculation,-The%20S%26P%20500&text=As%20a%20result%2C%20the%20more,only%2050%20to%2075%20stocks.)
+“It is not uncommon for three-quarters of the index’s return to be linked to only 50 to 75 stocks.” - [Investopedia](https://www.investopedia.com/ask/answers/08/find-stocks-in-sp500.asp#:~:text=S%26P%20500%20Calculation,-The%20S%26P%20500&text=As%20a%20result%2C%20the%20more,only%2050%20to%2075%20stocks.). So, if you could somehow use a magic crystal to buy only those 50 stocks, then you would get better returns than index funds. This allure is what often tempts many to pick individual stocks instead of investing in the index.
 
 While it’s very hard to consistently pick great businesses, it’s not impossible. However, the effort and knowledge required are so significant that, in my opinion, if you choose this route, it should be your first priority in life.
 
 Initially, I had decided not to write this section to avoid distracting someone from buying index funds. But if someone can go from [From zero to Olympic gold in just 7 years ](https://www.reddit.com/r/interestingasfuck/comments/1enl9hi/from_zero_to_olympic_gold_in_just_7_years/), then who am I to decide what you can or cannot do with your money?
 
-You don’t need to be a born genius to excel at stock picking; you just need to take one step in the right direction consistently. If you can compound in the right direction, then you am only going to get better.
+You don’t need to be a born genius to excel at stock picking; you just need to take one step in the right direction consistently. If you can compound in the right direction, then you are only going to get better.
 
-Don’t wish you were Naruto or Sasuke. Be Guy Sensei. Naruto (although unknown initially) & Sasuke had power right from birth. Guy sensei, started as zero, kept compounding his effort, to become most powerful shinobi 💪🏻 and got acknowledged by Madara.
+Don’t wish you were Naruto or Sasuke. Be Guy Sensei. Naruto & Sasuke had power right from birth. However Guy sensei, started as zero, kept compounding his effort, to become most powerful shinobi 💪🏻 and got acknowledged by Madara.
 
 ![Guy sensei gif]({{site.url}}/images/guy_sensei.gif)
 
@@ -170,7 +170,7 @@ Don’t wish you were Naruto or Sasuke. Be Guy Sensei. Naruto (although unknown 
 
 - Someone buying great business which can grow its revenue in double digits for next 2 decades is a great feat. The skills attained during this process should be transferable to other parts of life.
     - Personally, I get attracted to doing hard things; maybe you do too.
-    - “Investing isn’t just a process of wealth creation; it is a source of great happiness and sheer intellectual delight for the truly passionate investor.” - gautam baid
+    - “Investing isn’t just a process of wealth creation; it is a source of great happiness and sheer intellectual delight for the truly passionate investor.” - Gautam baid
 - Picking a diverse set of quality businesses at a good price can consistently beat average market returns.  In long term even 1% makes a difference
     - $10000 compunded at 10% for 30 years results in $174,494.02. Whereas 11% compounding results in $228,922.97 (longer the time period, more pronounced difference)
     
@@ -185,9 +185,9 @@ If you are picking a business then you have to read (atleast, per business) 4 qu
 ### Basic Terms introduction
 
 **Revenue** :   total amount of money a business makes from selling its products or services.  
-**Gross profit** :  money a business makes after subtracting the cost of making and selling its products or services i.e revenue - cost of goods  
+**Gross profit** :  money a business makes after subtracting the cost of making and selling its products or services i.e revenue - cost of goods.  
 **Operating Expense** (Opex) : day-to-day costs of running a business. Think of it as the money you spend to keep the lights on and the business running smoothly  
-**Capital Expense** (Capex) : expenses that would give revenue over the next years. Eg - expense of buying a factory  
+**Capital Expense** (Capex) : expenses that would result in revenue, over the next years. Eg - expense of buying a factory  
 Note: While Opex affects net profit directly, Capex does not. Capex goes into the balance sheet as an asset. Over time, it gets subtracted from the income statement as depreciation (for tangible assets) or amortization (for intangible assets).  
 **Net Profit**: Accounting profits (Company doesnt necessarily receive this amount as cash in hand).  
 Can be calculated as,  
@@ -200,26 +200,26 @@ It’s like seeing how much investors are willing to pay for each dollar of earn
 A high P/E might mean the stock is overvalued, or investors expect high growth.  
 **P/FCF ratio** : Similar to PE ratio, but with wrt FCF instead of net profit.  
 **Earnings yield** :as we have already seen The percentage of profit attributable to one share relative to the price of that share.  
-**ROIC** : profits/ invested capital. What percentage of invested capital is generated as profit. Indicates efficiecy of the company  
-**ROE** : profits/equity. Be careful, it can be elevated by using higher leverage (liability)  
-**Equity** = Asset - Liability from Balance sheet  
+**ROIC** : profits/ invested capital. What percentage of invested capital is generated as profit. Indicates efficiecy of the company.  
+**ROE** : profits/equity. Be careful, it can be elevated by using higher leverage (liability).  
+**Equity** = Asset - Liability from Balance sheet.  
 **Dilution** : 
-Phenomeon where companu issues more share. This is bad for shareholders. because they buy shares based on Earning per share (EPS). If profit stays the same but number of shares increases, then EPS reduces.  It’s like adding more water to a soup, making each bowl less concentrated.  
-Dilution happens when business pays their employees with stock. They can also issue stock during acquisition or with convertible notes https://learn.angellist.com/articles/convertible-note  
-Dilution as such is not bad, if profits can out grow the share increases  
-Because of dilution, always look at EPS or FCF/share rather than Net profit or FCF  
+Phenomenon where company issues more share. This is bad for shareholders. because they buy shares based on Earning per share (EPS). If profit stays the same but number of shares increases, then EPS reduces.  It’s like adding more water to a soup, making each bowl less concentrated.  
+Dilution happens when business pays their employees with stock. They can also issue stock during acquisition or with [convertible notes](https://learn.angellist.com/articles/convertible-note) . 
+Dilution as such is not bad, if profits can out grow the share increase.   
+Since share count keeps changing, always look at EPS or FCF/share rather than whole Net profit or FCF.  
 **Buyback** : 
-Company buys back its own shares from the market.Essentially opposite of dilution. reducing share count, so EPS increases. hence value of share now increases.  
+Company buys back its own shares from the market. Essentially opposite of dilution. reducing share count, so EPS increases. hence value of share now increases.  
 This is one way of returning money to shareholders. More tax efficient than dividend.  
 **Dividend**:  
 Company’s earnings distributed to shareholders, usually in cash. This is another way of returning money to shareholders. You have to pay tax for dividend.  
 Is dividend good? Dont buy a stock just for dividend, money is returned to shareholder means, there is no other good way to reinvest, so that means profit wont be growing much over long term. 
 
-*Overall profit you may get holding a share maybe attributable* to 
+*Overall profit you may get by holding a share maybe attributable* to 
  - Earnings growth (which can be via organic growth or via M&A)
 - Valuation ratio growth (think PE ratio or P/FCF ratio),
-- Dividend yield ,
-- Buyback yield
+- Dividend ,
+- Buyback. 
 
 > Most metrics can be legally manipulated if desired. so never rely on a single metric
 
@@ -269,11 +269,11 @@ This involves estimating the Free Cash Flow (FCF) per share of a business over t
 **Reverse DCF**: 
 More meaningful, especially in the early years of your investing journey. Instead of determining the fair value of a share, you start with the current share price and work backward to determine what FCF growth is implied by that price. From there, you decide whether that FCF growth is realistic or not. This approach is more practical for beginners, in my opinion. [Reverse DCF explained - YT](https://www.youtube.com/watch?v=K3TPScYBK5s&t=25s)
 
-**Efficient market theory** suggests that all available information is already reflected in stock prices. Meaning stock can never be over or undervalued. In a way, Narrative or stock growth determines price. While a news which can be pain to business over short term, but over long term (based on your knowledge on business, management etc) you may consider the news to be not that negative. Hence the stock maybe efficiently priced as per the news (but in your perspecitve the news is not that negative), so in your perspective the stock looks undervalued. 
+**Efficient market theory** suggests that all available information is already reflected in stock prices. Meaning stock can never be over or undervalued. In a way, Narrative or stock growth determines price. While a news which can be pain to business over short term, but over long term (based on your knowledge on business, management etc.) you may consider the news to be not that negative. Hence the stock maybe efficiently priced as per the news (but in your perspective the news is not that negative), so in your perspective the stock looks undervalued. 
 
 > You want great businesses that are having temporary problems.
 
-In my opnion,  risk of owning individual stocks, can be reduced to certain extent if u diversify enough and if u know hell lot about the company
+In my opinion,  risk of owning individual stocks, can be reduced to certain extent if u diversify enough and if u know hell lot about the company
 
 
 
@@ -286,17 +286,16 @@ In my opnion,  risk of owning individual stocks, can be reduced to certain exten
 - Read extensively. Read every piece of publicly available information about a company. The more you know, the better you can estimate its growth. Reading more reduces your risk.
 - Avoid borrowed conviction. Don’t follow social media blindly. What would you do if the stock they recommended (and you bought) falls 50% and the person stops posting about it? Do you know if you should sell, buy more, or what to do on your own?
 - Avoid buying with borrowed money. Very risky
-- Accept missed opportunities. Sometimes you miss the boat. Accept it, think “good for those who bought,” and move on. Hindsight bias is real. Don’t FOMO like this blind post: https://www.teamblind.com/post/Life-savings-gone-UJNTuPT8?utm_source=share&utm_medium=normal&from=share_link
-- No no-brainer investments. Picking a “too big to fail” company is not the answer. Profit growth is all that matters. For example, Intel has been too big/important to fail since the 2000s, but their profit hasn’t grown much, hence their stock price hasn’t grown much. If profit remains stagnant or even if growth reduces a bit, people might panic sell, reducing the multiple. A great example is PayPal.
-- Every purchase has an opposite view. For every share you buy, someone is selling. Control fear and greed, and use an objective mindset.
-- Stock down 50% doesn’t mean it’s a good buy. Maybe the stock was overvalued before, or earnings dropped, or future income is expected to grow less or shrink. If a stock went up 60% in one year, does that mean it’s overvalued? Consider future growth expectations and past valuations (cheap or costly).
-- Stock up 200% since you bought. Does that mean you were correct? No. What matters most over the long term is the company’s revenue growth. Short-term price action, even over five years, means nothing.
+- Accept missed opportunities. Sometimes you miss the boat. Accept it, think “good for those who bought,” and move on. Hindsight bias is real. Don’t FOMO
+- There is no, no-brainer investments. Picking a “too big to fail” company is not the answer. Profit growth is all that matters. For example, Intel has been too big/important to fail since the 2000s, but their profit hasn’t grown much, hence their stock price hasn’t grown much. If profit remains stagnant or even if growth reduces a bit, people might panic sell, reducing the multiple. A great example is PayPal stock.
+- In every transaction other person has an opposite view. For every share you buy, someone is selling. Control fear and greed, and use an objective mindset.
+- If a stock is down 50%, it doesn’t necessarily mean it’s a good buy. The stock might have been overvalued before, earnings could have dropped, or future income might be expected to grow less or even shrink. Conversely, if a stock went up 50% in one year, it doesn’t automatically mean it’s overvalued. You need to consider future growth expectations and past valuations.
 - more points hidden under this toggle
     - Absolutely don’t buy pre-revenue companies, biomedical, airline, or even sports apparel companies. Don’t fall for the “next big thing” businesses.
     - Don’t do intraday trading. Stay away from using leverage (F&O - call, put, long, short). Leverage is the easiest way to lose all your money faster.
     - Don’t follow stock prices; follow the net income of the stock, or better yet, follow free cash flow (FCF). Market reactions after earnings don’t always mean the earnings were bad. Read the quarterly report and form your own opinion. Yes, the market can be wrong in the short term.
     - Form your own checklist to help your thought process.
-    - Don’t just trust CEOs’ guidance. While they can be genuine, a CEO’s job is to market their company as the best in the world. You have to read between the lines to understand what’s happening. Don’t fully assume analysts’ price targets are correct; that’s often misleading. The same goes for anyone in the news predicting doom. They can’t say for sure either.
+    - Don’t just trust CEO’s guidance. While they can be genuine, a CEO’s job is to market their company as the best in the world. You have to read between the lines to understand what’s happening. Don’t fully assume analysts’ price targets are correct; that’s often misleading. The same goes for anyone in the news predicting doom. They can’t say for sure either.
     - Doubt everything, but trust management enough to give them some space. Focus on long-term growth rather than short-term fluctuations.
     - Keep learning, keep improving, and keep your emotions in check. Tune out the noise. Read about biases and behavioral investing flaws. Fear, greed, and capital gains taxes will always challenge you. Be wary of them. Stay calm, not greedy or fearful.
     - Past performance doesn’t indicate future performance, but it generally forms an upper limit. If a business has been compounding at 6% a year, for it to become 10%, it needs a strong reason.
@@ -310,7 +309,7 @@ In my opnion,  risk of owning individual stocks, can be reduced to certain exten
 - [What I Learned About Investing from Darwin by Pulak Prasad](https://www.goodreads.com/book/show/62792694-what-i-learned-about-investing-from-darwin)  
 - [Richer, Wiser, Happie](https://www.goodreads.com/book/show/54303127-richer-wiser-happier?from_search=true&from_srp=true&qid=M9kfWuwLRb&rank=1)  
 - [The Little Book of Behavioral Investing](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing)  
-- [100 Baggers](https://www.goodreads.com/book/show/28250756-100-baggers?ref=rae_3) just to help u get long term view (instead of looking for 100x, look for 10 bagger)
+- [100 Baggers](https://www.goodreads.com/book/show/28250756-100-baggers?ref=rae_3) just to help you get long term view (instead of looking for 100x, look for 10 bagger)
 - [Warren Buffett Accounting Book: Reading Financial Statements for Value Investing](https://www.goodreads.com/book/show/22103415-warren-buffett-accounting-book)  
 - [Accounting 101 (taught by a non-accountant) - YouTube](https://www.youtube.com/playlist?list=PLUkh9m2BorqmKaLrNBjKtFDhpdFdi8f7C)  
 - All Peter lynch books (most popular - [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street)) 
@@ -318,7 +317,7 @@ In my opnion,  risk of owning individual stocks, can be reduced to certain exten
 - [Common Stocks and Uncommon Profits and Other Writings](https://www.goodreads.com/book/show/25574.Common_Stocks_and_Uncommon_Profits_and_Other_Writings)  
 - [The Intelligent Quality Investor](https://www.goodreads.com/book/show/95332286-the-intelligent-quality-investor)  
 - [The Essays of Warren Buffett: Lessons for Corporate America ](https://www.amazon.com/Essays-Warren-Buffett-Lessons-Corporate/dp/0966446143)- get the latest edition  (link redirects to amazon.com)
- - [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) (nice book on Buffet’s early investment stage life, also had good chapter on behavioural biases on investing)
+ - [The Warren Buffett Way](https://www.goodreads.com/book/show/209956.The_Warren_Buffett_Way) (nice book on Buffet’s early investment stage life, also had a good chapter on behavioural biases on investing)
 
 Books I haven't read but could be valuable addition to above list
 - [The Education of a Value Investor](https://www.goodreads.com/book/show/20696027-the-education-of-a-value-investor?ref=rae_0)
@@ -333,7 +332,7 @@ Whatever your investment decision is, make an informed one. Know why you’re bu
 You will always hear success stories of someone earning 1000x their money in options, Bitcoin, or Nvidia. Remember, only those who made money show off. The 99% who made similar bets and lost don’t share their stories. You only hear from the winners. 
 	Please don’t YOLO your money like this person in [blind](https://www.teamblind.com/post/Life-savings-gone-UJNTuPT8?utm_source=share&utm_medium=normal&from=share_link). Quote from the post - *"so I'm gonna lose 80% of my savings over the weekend. What are some ways to come back from this reset in my life? I can think of taking on an extra part time, and have at it for 20+ years*" This is why dviersification, long term mindset etc are important.
 	
-Everyone makes mistakes in their investment journey; make sure they won’t hurt you for the rest of your life. Be responsible with your money
+Everyone makes mistakes in their investment journey; but make sure they won’t hurt you for the rest of your life. Be responsible with your money.
 
 
 
