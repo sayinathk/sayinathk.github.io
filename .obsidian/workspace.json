@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 486.5,
+    "collapsed": true
   },
   "right": {
     "id": "3bf72f8abbcba776",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f31205becb22488e",
+  "active": "45bea8d9db46b9c1",
   "lastOpenFiles": [
     "DCF.md",
     "_site/DCF.md",

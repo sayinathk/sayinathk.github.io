@@ -13,15 +13,15 @@ CONTENT:
 * 
 {:toc}
 
-((If this blog feels too long, try using Microsoft Edge’s read aloud feature.)
+(If this blog feels too long, using Microsoft Edge’s read aloud feature might help.)
 # Intro
-I began learning about the stock market a year ago.  (so take this blog as  a place to jump start your knowledge, but no like this person in blind as prescription of what you should do with your money).
+I began learning about the stock market a year ago (so take this blog as a place to jump start your knowledge, but not as prescription of what you should do with your money).
 Objective/summary is to explain
-- Index funds are best, except for those read a lot and are good controlling their emotions 
-	 - If you already know this,  feel free to skip this blog, unless you are curious about what else i have written about
-- Every investment comes with risk - know what u r doing to avoid costly mistakes and save your money from ignorance
--  Pros & cons, principles, pitfalls to avoid if you decided to buy (quality ) business rather than taking index fund route
--  I also gave links to books & articles to interest you further  
+- Index funds are best, except for those read a lot and are good controlling their emotions.
+	 - If you already know this,  feel free to skip this blog, unless you are curious about what else i have written about.
+- Every investment comes with risk - know what you are doing to avoid costly mistakes and save your money from ignorance.
+-  Pros & cons, principles, pitfalls to avoid if you decided to buy (quality ) business, rather than taking index fund route.
+-  I also gave links to books & articles to interest you further  .
 
 # Why invest
 ### Inflation (capital preservation)
