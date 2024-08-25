@@ -33,7 +33,7 @@ For those seeking financial independence, investing your existing capital at con
 # Investment opportunities and mindset to have
 There are numerous ways to invest your money. While I’ll focus on the stock market, here are some other options I’m aware of:
 - Fixed income options:
-    - Bank deposits (know if your deposit is insured, if not make sure bank wont go bankrupt),   [Money Market Funds](https://www.investopedia.com/terms/m/money-marketfund.asp) (MMF) or [Bonds](https://www.investopedia.com/terms/b/bond.asp)
+    - Bank deposits (know if your deposit is insured, if not make sure bank won't go bankrupt),   [Money Market Funds](https://www.investopedia.com/terms/m/money-marketfund.asp) (MMF) or [Bonds](https://www.investopedia.com/terms/b/bond.asp)
     -  Be aware whether return is going to be greater or lesser than inflation.
 - Stock market
 - Real estate
@@ -44,7 +44,7 @@ Every investment carries some risk of losing money. Preserving your capital shou
 
 Have a long term mindset, Don’t rush to earn quick money. Usually, that fear of missing out (FOMO) rush will only make you lose money.
 
-Remember once your money gets halved to 50% due to loss, then you need the investment to return 100% to just break even. So opt for consistent returns rather than high risk high reward investments.
+*Remember once your money gets halved to 50% due to loss, then you need the investment to return 100% to just break even.* So opt for consistent returns rather than high risk high reward investments.
 
 *Be diversified* -  Don’t put all your eggs in one basket. Diversification ensures that if one investment goes belly up, your life savings are still protected.
 
@@ -53,12 +53,11 @@ Good investment opportunity should also have *less tax burdens* when you eventua
 Be aware of how much tax you’ll have to pay in the end. Familiarize yourself with tax-deferred accounts like IRAs and 401(k)s. Understand the withdrawal rules for them and learn if they would benefit you.
 	Be as tax-efficient as possible. For example, in the US, municipal bond funds and municipal bond-based money market funds are exempt from state tax whereas bank interests are not state tax exempt
 
->  Don't invest money that u might need within 3-5 years.  Opt for low risk bonds/bank deposits
+>  Don't invest money that you might need within 1-3 years.  Opt for low risk bonds/bank deposits
 
-If you invest in high risk asset with short term mindset, the asset you invested in may go down, and you would be forced to sell at a loss. 
- If you need the money within next 3-5 years, Opt for low-risk investing options like bank deposits or bonds for short-term needs. 
+If you invest money that you might need in 1-3 years in high-risk assets, there’s a chance the value of those assets could decrease, forcing you to sell at a loss.
 
-With everything being digital, be sure to have unique passwords for each of your financial insitution. Use 2FA. If it makes sense (for eg in brokerages) restrict the ease of taking out the money. 
+With everything being digital, be sure to have unique passwords for each of your financial insitution. Use 2FA. If it makes sense (for eg in brokerages) restrict the ease of taking out the money (example Fidelity's security lockdown feature restricts taking out the money from brokerage ) 
 # Stock -  Slice of a business rather than a random number generator
 The stock market is where people buy and sell businesses, similar to how tomatoes are sold in a vegetable market. A seller quotes a price, and when a buyer agrees, they exchange cash, and the tomato is sold. Stocks are traded similarly via the stock exchange with help of brokerages, with prices fluctuating every microsecond.
 
