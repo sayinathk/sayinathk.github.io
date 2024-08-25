@@ -330,7 +330,7 @@ Books I haven't read but could be valuable addition to above list
 Whatever your investment decision is, make an informed one. Know why you’re buying this asset (eg stock) rather than another (eg real estate, gold). Keep learning and regularly check if your thesis is still intact. Don’t be in denial if you are wrong.
 
 You will always hear success stories of someone earning 1000x their money in options, Bitcoin, or Nvidia. Remember, only those who made money show off. The 99% who made similar bets and lost don’t share their stories. You only hear from the winners. 
-	Please don’t YOLO your money like this person in [blind](https://www.teamblind.com/post/Life-savings-gone-UJNTuPT8?utm_source=share&utm_medium=normal&from=share_link). Quote from the post - *"so I'm gonna lose 80% of my savings over the weekend. What are some ways to come back from this reset in my life? I can think of taking on an extra part time, and have at it for 20+ years*" This is why dviersification, long term mindset etc are important.
+	Please don’t YOLO your money like this person in [blind](https://www.teamblind.com/post/Life-savings-gone-UJNTuPT8?utm_source=share&utm_medium=normal&from=share_link). Someone fomo'd into NVDA after it's massive rally and are now at a big loss. They said *"so I'm gonna lose 80% of my savings over the weekend. What are some ways to come back from this reset in my life? I can think of taking on an extra part time, and have at it for 20+ years*" This is why diversification, long term mindset etc are important.
 	
 Everyone makes mistakes in their investment journey; but make sure they won’t hurt you for the rest of your life. Be responsible with your money.
 
