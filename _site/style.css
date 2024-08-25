@@ -1,27 +1,29 @@
 	body {
-	    max-width: 65%;
+	    max-width: 75%;
 	    margin: 0 auto;
-	    font-size: 150%;
+	    font-size: 135%;
 	    font: "Georgia";
 	    background-color: #f8f9f9;
 	}
 
+
+
 	.post_body {
-	    max-width: 120%;
+	    max-width: 100%;
+	    margin: 0 auto;
 	    font-size: 103%;
 	    font: "Georgia";
 	    background-color: #f8f9f9;
 	    line-height: 1.4;
+	}
 
+	.disclaimer {
+	    font-size: 60%;
 	}
 
 
-	.box {
-	    margin-bottom: 20px;
-	    padding: 20px;
-	    border: 2px solid #b3b3b3;
-	    border-radius: 15px;
-	}
+
+
 
 	.home_url {
 	    text-decoration: none;
@@ -37,6 +39,8 @@
 	blockquote {
 	    font-size: 135%;
 	    color: #757575;
+	    line-height: 1.3;
+
 	}
 
 	.posttitle {
@@ -49,7 +53,6 @@
 	    display: block;
 	    margin-left: auto;
 	    margin-right: auto;
-	    width: 100%;
 
 	}
 
@@ -68,6 +71,28 @@
 	    grid-gap: 20px
 	}
 
+	.box {
+	    margin-bottom: 20px;
+	    padding: 20px;
+	    border: 2px solid #b3b3b3;
+	    border-radius: 15px;
+	}
+
+	/* for post suggestion*/
+	.post_sug {
+	    display: grid;
+	    grid-template-columns: 1fr 1fr 1fr;
+	    grid-gap: 20px
+	}
+
+	.noborder_box {
+	    margin-bottom: 20px;
+	    padding: 20px;
+	}
+
+
+
+
 	.centre {
 	    display: block;
 	    margin-left: auto;
@@ -81,6 +106,74 @@
 	    font-size: 200%;
 	}
 
-	.disclaimer {
-	    font-size: 60%
+
+
+	@media only screen and (max-width: 800px) {
+	    .chk {
+	        max-width: 100%;
+	        font-family: 'Nanum Pen Script';
+	        text-align: centre;
+	        font-size: 250%;
+	        line-height: 1.2;
+	        margin: 0;
+	        padding: 0;
+	    }
+
+	    body {
+	        max-width: 85%;
+	        margin: 0 auto;
+	        font-size: 150%;
+	        font: "Georgia";
+	        background-color: #f8f9f9;
+	    }
+
+	    .post_body {
+	        max-width: 120%;
+	        font-size: 80%;
+	        font: "Georgia";
+	        background-color: #f8f9f9;
+	        line-height: 1.4;
+	    }
+
+
+	    .disclaimer {
+	        font-size: 60%;
+
+	    }
+
+
+	    .section {
+	        display: grid;
+	        grid-template-columns: 1fr;
+	        grid-gap: 20px;
+	        font-size: 70%;
+
+	    }
+
+	    .centre {
+	        display: block;
+	        margin-left: auto;
+	        margin-right: auto;
+	        width: 60%;
+
+	    }
+
+	    .post_sug {
+	        display: grid;
+	        grid-template-columns: 1fr;
+	        grid-gap: 20px
+	    }
+
+
+	}
+
+	.grey {
+	    /*    color: #79a6d2;*/
+	    line-height: 1.4;
+	    font-size: medium;
+	    font-family: "Courier New", Courier, monospace;
+	}
+
+	h3 {
+	    text-decoration: underline;
 	}
